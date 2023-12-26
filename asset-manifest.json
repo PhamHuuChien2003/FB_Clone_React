@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bhttps://github.com/PhamHuuChien2003/FB_Clone_React.git%7D/static/css/main.3b0a4ad0.css",
+    "main.js": "/%7Bhttps://github.com/PhamHuuChien2003/FB_Clone_React.git%7D/static/js/main.973768e6.js",
+    "index.html": "/%7Bhttps://github.com/PhamHuuChien2003/FB_Clone_React.git%7D/index.html",
+    "main.3b0a4ad0.css.map": "/%7Bhttps://github.com/PhamHuuChien2003/FB_Clone_React.git%7D/static/css/main.3b0a4ad0.css.map",
+    "main.973768e6.js.map": "/%7Bhttps://github.com/PhamHuuChien2003/FB_Clone_React.git%7D/static/js/main.973768e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0a4ad0.css",
+    "static/js/main.973768e6.js"
+  ]
+}
